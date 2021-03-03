@@ -1,0 +1,3 @@
+Pillow>=8.1.1
+pyora==0.3.10
+appJar==0.94.0
